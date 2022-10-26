@@ -1,1 +1,4 @@
 # MovieApp-MVMM
+
+## Pattern
+- MVVM
