@@ -15,3 +15,4 @@
 6- I did pagination while taking data. <br/>
 7- created request using page structure. <br/>
 8- UICollectionView. 
+9- MVVM
