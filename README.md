@@ -16,3 +16,4 @@
 7- created request using page structure. <br/>
 8- UICollectionView. 
 9- MVVM
+10- Protocol Orianted Programming 
