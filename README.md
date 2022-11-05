@@ -14,7 +14,7 @@
 5- developed UI 100% programmatically. <br/>
 6- I did pagination while taking data. <br/>
 7- created request using page structure. <br/>
-8- UICollectionView. 
-9- MVVM
-10- Protocol Orianted Programming 
-11- Extension
+8- UICollectionView. <br/>
+9- MVVM <br/>
+10- Protocol Orianted Programming <br/>
+11- Extension <br/>
